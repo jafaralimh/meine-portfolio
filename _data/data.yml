@@ -41,20 +41,21 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Experienced Operations Development with a demonstrated history of working in the telecommunications industry. 
+      Skilled in Web Design, Microsoft Excel, Networking, Network Security, and Telecommunications. Strong operations
+      professional with a Bachelor of Engineering (B.Eng.) focused in Telecommunications Engineering from Institut Teknologi Telkom and 
+      continue on Master Degree in Institut Teknologi Bandung, studying at Telematics and Telecommunication Networks field.
+      
+      High passionate on Web Development such as Web Apps and Progressive Web Apps (PWA) to induct my knowledge assets about 
+      Informatics System and Data Structure in real life. Biggest dream I would be achieve are collaborating hardware and software 
+      into one environment (Internet of Things) and develop Business Intelligence spreading beneath marginal level.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master of Engineering in Telematics and Telecommunication Networks (on-going)
+      university: Bandung Institute of Technology
+      time: 2017 - ...
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -65,9 +66,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Bachelor of Technology in Telecommunication Engineering
+      university: Institut Teknologi Telkom
+      time: 2011 - 2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -79,9 +80,9 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Assistant Lecturer
+      time: September 2018 - December 2018
+      company: Institut Teknologi Bandung, Bandung
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -96,9 +97,9 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Software Developer
+      time: April 2018 - December 2018
+      company: Bandung Techno Park, Bandung
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -109,9 +110,22 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: People Services - Human Capital Analytics & Reporting
+      time: December 2017 - January 2018
+      company: PT. XL Axiata, Tbk, Jakarta
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+ 
+    - role: Development Operations
+      time: August 2017 - December 2017
+      company: PT. XL Axiata, Tbk, Jakarta
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -122,6 +136,32 @@ experiences:
           - Bullet point
           - Bullet point
 
+    - role: Software Developer
+      time: September 2016 - July 2017
+      company: Bandung Techno Park, Bandung
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+          
+    - role: Internship
+      time: June 2014 - July 2014
+      company: Holcim Indonesia, Cilacap
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+          
 projects:
     title: Projects
     intro: >
